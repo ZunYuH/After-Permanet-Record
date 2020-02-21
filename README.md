@@ -5,8 +5,8 @@
 
 另一点引起我注意和惊喜的事情便是，这本书中译本的出版时间是2019.11，可以说算是新鲜出炉，虽然不知道原著是何时出版的，想必也不会太久远。
 
-## 初识[爱德华·斯诺登](https://en.wikipedia.org/wiki/Edward_Snowden)
-### First sight of Edward Snowden
+## 初识爱德华·斯诺登
+### First sight of [Edward Snowden](https://en.wikipedia.org/wiki/Edward_Snowden)
 为什么要说惊喜呢，因为我最早接触Snowden的消息是在初中，那时候我拿的还是微软收购诺基亚之后推出的[Lumia](https://www.windowscentral.com/lumia)手机，手机上用的还是Wp的系统，这些对我，对大多数人来说都是“古老的东西”了。
 
 那段时间关于Snowden的报导以及美国的“[棱镜门](https://en.wikipedia.org/wiki/PRISM_(surveillance_program))”事件传的沸沸扬扬，国内的许多媒体都有他的标题，当时的印象里Snowden是个很帅气的小伙子，年轻，短短的蓄着胡子，干净的半框眼镜。
@@ -50,8 +50,8 @@
 不论何时，对技术抱有尊重的态度，最好可以了解掌握自己使用的技术，而不要被技术掌控。了解自己的立场，了解真实发生的事情。  
 全世界开源程序的软件开发工作者们，使我们如今还能拥有这样一片如此繁盛的交流净土。  
 
-## [吹哨者们](https://en.wikipedia.org/wiki/Whistleblower)
-### Whistleblower
+## 吹哨者们
+### [Whistleblower](https://en.wikipedia.org/wiki/Whistleblower)
 以及各行各业 的 吹哨者，成为了最勇敢的人。掌握真理之人对压迫的反抗，是为了让普通人不再被暗中侵害。
 
 这很容易让人联想起最近发生的事情，和以前发生的事情。 
