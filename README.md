@@ -1,7 +1,7 @@
 # After-Permanet-Record
-# *关于《永久记录》的笔记*
+# 关于《永久记录》的笔记
 ## Something written about ***Permanet Record***
-几乎一口气读完了*Permanent Record*，值得一提的这是我首次从前言到致谢全部都读完的自传。另一点引起我注意和惊喜的事情便是，这本书中译本的出版时间是2019.11，可以说算是新鲜出炉，虽然不知道原著是何时出版的，想必也不会太久远。
+几乎一口气读完了*Permanent Record*，值得一提的，这是我首次从前言到致谢全部都读完的自传。另一点引起我注意和惊喜的事情便是，这本书中译本的出版时间是2019.11，可以说算是新鲜出炉，虽然不知道原著是何时出版的，想必也不会太久远。
 
 ## 初识[爱德华·斯诺登](https://en.wikipedia.org/wiki/Edward_Snowden)
 ### First sight of Edward Snowden
